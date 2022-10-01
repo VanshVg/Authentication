@@ -10,7 +10,8 @@ In auhtorization user needs to be authenticated to be able to update their usern
     * Express.Js
     * Mongoose.Js
     * jsonwebtoken
-## Installation
+    
+- Project's goal is to learn concepts of jsonwebtoken.
 
 To install dependencies/packages 
 
