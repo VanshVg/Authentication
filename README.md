@@ -1,7 +1,7 @@
 
-# Authorization
+# Authentication
 
-In authtorization user needs to be authenticated to be able to update their username or delete their profile.
+In this project when user signup user's data is added to database then during login user is asked to enter their correct email and password to be able to login, if the login is successful one token is generated using JsonWebToken (JWT) and if user wants to edit or delete the data he must have this token for that.
 
 
 
