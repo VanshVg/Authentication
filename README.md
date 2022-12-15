@@ -13,6 +13,7 @@ In this project when user signup user's data is added to database then during lo
     
 - Project's goal is to learn concepts of jsonwebtoken.
 
+## Installation
 To install dependencies/packages 
 
 ```bash
